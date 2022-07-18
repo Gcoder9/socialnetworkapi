@@ -5,7 +5,7 @@
 ## Table of Contents
 * [Description](#Description)
 * [Installation](#installation)
-* [Walkthrough](#Walkthrough)
+* [Usage](#Usage)
 * [Credits](#credits)
 
 
@@ -19,14 +19,12 @@ An API for a social network web application where users can share their thoughts
 
 You’ll use Express.js for routing, a MongoDB database, and the Mongoose ODM. In addition to using the Express.js and Mongoose packages, you may also optionally use a JavaScript date library of your choice or the native JavaScript Date object to format timestamps.
 
-## Walkthrough
+## Usage
 
 
+View walk through video here - <a href ="https://drive.google.com/file/d/1HshIcBLfOM-_BGqHj9jgVCrPvsK-puhJ/view"><img src="socialnetworkapi.png"></a><br>
 
-* Video Walkthrough Part 1: []()
-* Video Walkthrough Part 2: []()
 
-![screenshot of application]()
 
 ## Credits
 
